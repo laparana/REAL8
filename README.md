@@ -1,3 +1,5 @@
+[[http://real8.org/wp-content/uploads/2017/12/Logo-REAL8.png|alt=REAL8]]
+
 This is the reference code for [CryptoNote](https://cryptonote.org), the cryptocurrency protocol REAL8 forked from..
 
 * Starter: [CryptoNote Starter](https://cryptonotestarter.org/)
